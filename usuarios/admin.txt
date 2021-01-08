@@ -1,0 +1,5 @@
+PASS=admin
+USUARIO=admin
+APELLIDOS=admin
+DOCUMENTO=21312
+NOMBRE=admin
